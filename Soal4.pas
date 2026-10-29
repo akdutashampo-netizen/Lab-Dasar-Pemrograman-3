@@ -31,7 +31,7 @@ begin
   // Input komponen nilai untuk setiap mahasiswa
   for i := 1 to n do
   begin
-    writeln('--- Mahasiswa ke-', i, ' ---');
+    writeln('Mahasiswa ke-', i, ' ');
     write('  Masukkan Nilai Tugas : '); readln(tugas[i]);
     write('  Masukkan Nilai Kuis  : '); readln(kuis[i]);
     write('  Masukkan Nilai UTS   : '); readln(uts[i]);
