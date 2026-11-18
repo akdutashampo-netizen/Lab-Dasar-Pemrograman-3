@@ -1,0 +1,19 @@
+program Tugas2;
+uses crt;
+
+begin
+  clrscr;
+  writeln('Januari');
+  writeln('Februari');
+  writeln('Maret');
+  writeln('April');
+  writeln('Mei');
+  writeln('Juni');
+  writeln('Juli');
+  writeln('Agustus');
+  writeln('September');
+  writeln('Oktober');
+  writeln('November');
+  writeln('Desember');
+  readln;
+end.
